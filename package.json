@@ -1,0 +1,11 @@
+{
+  "name": "cypress-demop",
+  "version": "1.0.0",
+  "description": "cypress demo from ma",
+  "main": "index.js",
+  "author": "Mert Adatepe",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^7.6.0"
+  }
+}
